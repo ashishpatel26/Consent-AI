@@ -1,8 +1,11 @@
 # Consent AI / Consent Management System - AI Case Assistant
 ---
-[![Video Title](./demo.jpg)](./consentai-1742893099136.mp4)
-
-
+#### Demo
+<video width="1920" height="1080" controls>
+  <source src="consentai-1742893099136.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+---
 This Streamlit application is a Consent Management System with an AI Case Assistant. It helps manage and assess cases related to consent violations, using an AI model to predict risk levels.
 
 ## Features
